@@ -1,4 +1,4 @@
 # atribuição simples
 
 saldo = 500
-print(saldo)
+print(f"O saldo atual é: {saldo}")
