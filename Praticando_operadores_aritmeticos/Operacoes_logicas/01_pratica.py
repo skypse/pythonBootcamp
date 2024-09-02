@@ -4,6 +4,6 @@ saldo = 1000
 saque = 200
 limite = 100
 
-# saldo é maior ou igual ao saque? | saque é menor ou igual ao limite?
+# saldo é maior ou igual ao saque? SIM | saque é menor ou igual ao limite? NÃO
 testando = saldo >= saque and saque <= limite # false!
 print(testando)
