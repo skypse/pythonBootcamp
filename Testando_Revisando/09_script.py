@@ -1,0 +1,6 @@
+teste = "fulano"
+teste_fulano = "fulano"
+_teste_do_fulano = "fulano"
+testeDoFulano = "fulano"
+TESTEDOFULANO = "fulano"
+teste2 = "fulano"
